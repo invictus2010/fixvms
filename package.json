@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "single-page-markdown-website": "^0.0.24"
+  },
+  "single-page-markdown-website": {
+    "toc": true,
+    "sections": false
+  }
+}
