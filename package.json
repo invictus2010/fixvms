@@ -3,6 +3,9 @@
     "single-page-markdown-website": "^0.0.24"
   },
   "single-page-markdown-website": {
+    "title": "Fix VMS",
+    "description": "Fix VMS for the Submarine Force",
+    "faviconImage": "anchor.png",
     "toc": true,
     "sections": false
   }
