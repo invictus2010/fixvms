@@ -2,13 +2,13 @@
 
 The USS Connecticut is an engineering marvel. Its nuclear power plant propels to classified speeds. Its unique hull material secures watertight integrity to classified depths. Its double deck torpedo room services eight torpedo tubes, twice the number found on other submarines. 
 
-In war, it's the apex predator of the ocean.
+In war, it's the apex predator of the ocean. One Seawolf class submarine, such as the Connecticut, can carry 50 torpedoes. Each torpedo can destroy a warship or submarine. The Connecticut has enough firepower to destroy any other nation's nuclear submarine force.
 
-Yet, despite all of this, the navigational software on the $3B warship is far less capable any maps app on your phone. The software, called "Voyage Management System" (VMS), is the hub of all the ship's planning. But it can't even do basic, safety-of-ship alerting. 
+Yet, despite all of this, the navigational software on the $3B warship is far less capable any maps app on your phone. The software, called "Voyage Management System" (VMS), is the hub of all the ship's planning. But it can't even do basic safety-of-ship alerting. 
 
 You want to try and dive down to 350FT even though the seafloor is at 300FT? No problem, VMS will let you do that with no alerting, even though it knows both the ship's depth and the seafloor's depth.
 
-We don't know why the Connecticut hit a seamount. But I'm certain VMS didn't help the watchteam avoid the accident. The Submarine Force has lived with  inadequate navigation software for too long. I hope you agree that **it's time we fix VMS.**
+We don't know why the Connecticut hit a seamount. But I'm certain VMS didn't help the watchteam avoid the accident. The Submarine Force has lived with inadequate navigation software for too long. I hope you agree that **it's time we fix VMS.**
 ## Basics of Planning
 Ever wonder how submarines don't hit things? Probably not. But I'm going to cover the basics to show just how poorly VMS supports navigation teams.
 
@@ -41,14 +41,23 @@ How do submariners find the shallowest depth in their waterspace? They click aro
 
 Despite storing and serving up all of this depth data, VMS does nothing to assist in this review! If the crew erroneously thought that the shallowest point was 350FT, when it was actually 300FT, **VMS would not stop them from planning to drive into the seafloor**. 
 
+## We Deserve Much Better
+This failure to intervene is probably the most egregious shortcoming of VMS. But it's notoriously awful along other dimensions. Here's some of what I remember, mixed in with conversations with folks more recently onboard:
+* If you zoom in or out, VMS can take minutes to load. This would be the equivalent of scrolling in your maps app and waiting minutes for it to do something. And not like 2-3 minutes--load times could be like "take a coffee/smoke break" long. 
+* Essential UI elements could just stop working. The cursor might just freeze up at the worst possible times. 
+* When the software crashes, the error messages were unhelpful and required decoding by shore offices. Submarines often go long periods of not communicating with shore offices due to operational requirements.
+
+It's not hard to imagine a navigation system that automatically plots the waterspace assignment messages sent by shore offices. Then, based on the mission profile and environmental conditions, recommends course, speeds, depths to maximize stealth. The planning team could query historic merchant traffic to plan periscope trips around. During surfaced operations, it could recommend visual fix sources and show what they look like to the reviewer. We should be challenging our vendors to come up with something like this, instead of "Can the cursor please not randomly freeze up?"
+
 ## Stop Accepting Terrible Software
 It's unacceptable work from our vendors and procurement processes, and it's insufficient support of our Submarine Force. Why can't the navigation software of a $3B submarine find the minimum value of an array of numbers? Meanwhile, a $40K car can autonomously navigate city streets, charting a path home with a press of a button. 
 
 Submarine crews are tired of such poor support from VMS, forcing them to burn time reviewing charts with no automated assistance. It's as if our procurement process and the vendor collaborated to absolve themselves from any responsibility by serving us such an aggressively unhelpul tool. One can imagine them thinking, "Well, if we did the most basic alerting and warnings, and a grounding happened, we might get blamed. So let's not do anything."
 
-Instead, it's easier to poorly support our crews, write up "operator error" as the root cause of the accident, and fire crewmembers. What are we doing to engineer software like VMS to help reduce operator error?
+Instead, it's easier to poorly support our crews, write up "operator error" as the root cause of the accident, and fire crewmembers. What are we doing to engineer software like VMS to help reduce operator error? It's 2021 and our inability to have critical software do basic things is unacceptable. 
 
-I'm not asking for automated VMS checks to take the place of human reviews. I'm not even asking for it to ingest waterspace messages and automtically plot it for the crew. But it's 2021 and our inability to have critical software do basic things like find the minimum sounding is unacceptable. 
+## What's Next?
+Have other terrible experiences with submarine software? Join me on the "Dolphins Against Bad Software" Discord or leave a comment in the forums.
 
-
+_The views expressed are those of the author and do not reflect the official policy or position of the US Navy, Department of Defense or the US Government_
 

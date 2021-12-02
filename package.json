@@ -4,9 +4,24 @@
   },
   "single-page-markdown-website": {
     "title": "Fix VMS",
-    "description": "Fix VMS for the Submarine Force",
+    "description": "US submarines have with terrible software. Here's how bad it is.",
     "faviconImage": "anchor.png",
     "toc": true,
-    "sections": false
+    "sections": false,
+    "shareImage": "michael-dziedzic-0W4XLGITrHg-unsplash.jpg",
+    "links": [
+      { 
+      "text": "Email", 
+      "url":"mailto:jeffrey.withington@gmail.com"
+      },
+      {
+        "text": "Dolphins Against Bad Software",
+        "url": "https://discord.gg/rXZStTQV6B"
+      },
+      {
+        "text": "Forum",
+        "url": "https://github.com/invictus2010/fixvms/issues"
+      }
+    ]
   }
 }
