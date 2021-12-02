@@ -3,12 +3,12 @@
     "single-page-markdown-website": "^0.0.24"
   },
   "single-page-markdown-website": {
-    "title": "Fix VMS",
+    "title": "A Submarine's Weakness: It's Software?",
     "description": "US submarines have with terrible software. Here's how bad it is.",
     "faviconImage": "anchor.png",
     "toc": true,
     "sections": false,
-    "shareImage": "michael-dziedzic-0W4XLGITrHg-unsplash.jpg",
+    "shareImage": "julia-joppien-XFUqd0u5U7w-unsplash.jpg",
     "links": [
       { 
       "text": "Email", 
