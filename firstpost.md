@@ -2,7 +2,7 @@
 
 The USS Connecticut is an engineering marvel. Its nuclear power plant propels to classified speeds. Its unique hull material secures watertight integrity to classified depths. Its double deck torpedo room services eight torpedo tubes, twice the number found on other submarines. 
 
-In war, it's the apex predator of the ocean. One Seawolf class submarine, such as the Connecticut, can carry 50 torpedoes. Each torpedo can destroy a warship or submarine. The Connecticut alone has enough firepower to destroy any other nation's nuclear submarine force.
+In war, it's the apex predator of the ocean. The Connecticut alone carries enough torpedoes to destroy any other nation's entire nuclear submarine force.
 
 Yet, despite all of this, the navigational software on the $3B warship is far less capable any maps app on your phone. The software, called "Voyage Management System" (VMS), is the hub of all the ship's planning. But it can't even do basic safety-of-ship alerting. 
 
