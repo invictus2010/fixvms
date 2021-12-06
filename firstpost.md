@@ -47,7 +47,9 @@ This failure to intervene is probably the most egregious shortcoming of VMS. But
 * Essential UI elements could just stop working. The cursor might just freeze up at the worst possible times. 
 * When the software crashes, the error messages were unhelpful and required decoding by shore offices. Submarines often go long periods of not communicating with shore offices due to operational requirements.
 
-It's not hard to imagine a navigation system that automatically plots the waterspace assignment messages sent by shore offices. Then, based on the mission profile and environmental conditions, recommends course, speeds, depths to maximize stealth. The planning team could query historic merchant traffic to plan periscope trips around. During surfaced operations, it could recommend visual fix sources and show what they look like to the reviewer. We should be challenging our vendors to come up with something like this, instead of "Can the cursor please not randomly freeze up?"
+It's not hard to imagine a navigation system that automatically plots the waterspace assignment messages sent by shore offices. Then, based on the mission profile and environmental conditions, recommends course, speeds, depths to maximize stealth. The planning team could query historic merchant traffic to plan periscope trips around. During surfaced operations, it could recommend visual fix sources and show what they look like to the reviewer. 
+
+We should be challenging our vendors to come up with something like this, instead of "Can the cursor please not randomly freeze up?"
 
 ## Stop Accepting Terrible Software
 It's unacceptable work from our vendors and procurement processes, and it's insufficient support of our Submarine Force. Why can't the navigation software of a $3B submarine find the minimum value of an array of numbers? Meanwhile, a $40K car can autonomously navigate city streets, charting a path home with a press of a button. 
@@ -57,7 +59,7 @@ Submarine crews are tired of such poor support from VMS, forcing them to burn ti
 Instead, it's easier to poorly support our crews, write up "operator error" as the root cause of the accident, and fire crewmembers. What are we doing to engineer software like VMS to help reduce operator error? It's 2021 and our inability to have critical software do basic things is unacceptable. 
 
 ## What's Next?
-Have other terrible experiences with submarine software? Join me on the "Dolphins Against Bad Software" Discord or leave a comment in the forums.
+Have other terrible experiences with submarine software? Send me a [note](mailto:jeffrey.withington@gmail.com) or leave a comment in the [forums](https://github.com/invictus2010/fixvms/issues).
 
 _The views expressed are those of the author and do not reflect the official policy or position of the US Navy, Department of Defense or the US Government_
 
