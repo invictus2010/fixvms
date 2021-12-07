@@ -49,7 +49,7 @@ This failure to intervene is probably the most egregious shortcoming of VMS. But
 
 It's not hard to imagine a navigation system that automatically plots the waterspace assignment messages sent by shore offices. Then, based on the mission profile and environmental conditions, recommends course, speeds, depths to maximize stealth. The planning team could query historic merchant traffic to plan periscope trips around. During surfaced operations, it could recommend visual fix sources and show what they look like to the reviewer. 
 
-We should be challenging our vendors to come up with something like this, instead of "Can the cursor please not randomly freeze up?"
+We should be challenging our vendors to come up with something like this instead of "Can the cursor please not randomly freeze up?"
 
 ## Stop Accepting Terrible Software
 It's unacceptable work from our vendors and procurement processes, and it's insufficient support of our Submarine Force. Why can't the navigation software of a $3B submarine find the minimum value of an array of numbers? Meanwhile, a $40K car can autonomously navigate city streets, charting a path home with a press of a button. 
