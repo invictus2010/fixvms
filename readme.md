@@ -4,7 +4,7 @@ The USS Connecticut is an engineering marvel. Its nuclear power plant propels to
 
 In war, it's the apex predator of the ocean. The Connecticut alone carries enough torpedoes to destroy any other nation's entire nuclear submarine force.
 
-Yet, despite all of this, the navigational software on the $3B warship is far less capable any maps app on your phone. The software, called "Voyage Management System" (VMS), is the hub of all the ship's planning and serves as its real-time navigation system. But it can't even do basic safety-of-ship alerting. 
+Yet, despite all of this, the navigational software on the $3B warship is far less capable than any maps app on your phone. The software, called "Voyage Management System" (VMS), is the hub of all the ship's planning and serves as its real-time navigation system. But it can't even do basic safety-of-ship alerting. 
 
 You want to try and dive down to 350FT even though the seafloor is at 300FT? No problem, VMS will let you do that with no alerting, even though it knows both the ship's depth and the seafloor's depth.
 
@@ -61,5 +61,5 @@ Instead, it's easier to poorly support our crews, write up "operator error" as t
 ## What's Next?
 Have other terrible experiences with submarine software? Send me a [note](mailto:jeffrey.withington@gmail.com) or leave a comment in the [forums](https://github.com/invictus2010/fixvms/issues).
 
-_The views expressed are those of the author and do not reflect the official policy or position of the US Navy, Department of Defense or the US Government_
+_The views expressed are those of the author and do not reflect the official policy or position of the US Navy, Department of Defense or the US Government._
 
