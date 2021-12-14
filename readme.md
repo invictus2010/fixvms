@@ -59,7 +59,7 @@ Submarine crews are tired of such poor support from VMS, forcing them to burn ti
 Instead, it's easier to poorly support our crews, write up "operator error" as the root cause of the accident, and fire crewmembers. What are we doing to engineer software like VMS to help reduce operator error? It's 2021 and our inability to have critical software do basic things is unacceptable. 
 
 ## What's Next?
-Have other terrible experiences with submarine software? Send me a [note](mailto:jeffrey.withington@gmail.com) or leave a comment in the [forums](https://github.com/invictus2010/fixvms/issues).
+Have other terrible experiences with submarine software? Send me a [note](mailto:jeffrey.withington@gmail.com) or leave a comment in the [forums](https://github.com/invictus2010/fixvms/issues). Follow me on [Twitter](https://twitter.com/jwithing) for more takes about tech & the military!
 
 _The views expressed are those of the author and do not reflect the official policy or position of the US Navy, Department of Defense or the US Government._
 
